@@ -195,4 +195,4 @@ Controller --> Teste: 200 OK
 @enduml
 ```
 
-#  TESTE CI com Jest
+#  TESTE CI com Jest 2.0
